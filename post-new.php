@@ -7,7 +7,7 @@
  */
 
 /** Load WordPress Administration Bootstrap */
-require_once( dirname( __FILE__ ) . '/admin.php' );
+require_once( ABSPATH . 'wp-admin/admin.php' );
 
 /**
  * @global string  $post_type
