@@ -20,7 +20,7 @@ function restore_legacy_editing() {
 		__( 'New Legacy Post', 'glutenburg-free' ),
 		__( 'New Legacy Post', 'glutenburg-free' ),
 		'edit_posts',
-		'glutenburg-free/post-new.php',
+		'post-new.php',
 		'',
 		'dashicons-admin-post',
 		6
